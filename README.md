@@ -3,6 +3,7 @@
 I'm Kai Pham!
 - <i>University:</i> Finance, Business Analytics, and Digital Technology Management at Indiana University. 
 - <i>Personal Work:</i> Solidity/Web3 enthusiast.
+- <i>Personal Blockchain Blog:</i> [khang0x134.medium](https://khang0x134.medium.com/)
 
 <h2>📫 How to reach me:</h2>
 
